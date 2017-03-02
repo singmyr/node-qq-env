@@ -1,7 +1,7 @@
 Easy-ENV
 =========
 
-A lightweight module giving you the easy way to handle environment variables.
+A lightweight module giving you an easy way to handle environment variables.
 
 ## Installation
 `npm install easy-env`
